@@ -1,0 +1,31 @@
+{
+    "Customers": [
+        {
+            "Id": 1,
+            "Date": "1-10-2020",
+            "Name": "Ahmad zaid",
+            "Phone_number": "0587",
+            "Total_reward": "1000",
+            "Total_redeem": "2000",
+            "Current_balance": "1234"
+        },
+        {
+            "Id": 2,
+            "Date": "1-10-2020",
+            "Name": "Ahmad zaid",
+            "Phone_number": "0587",
+            "Total_reward": "1000",
+            "Total_redeem": "2000",
+            "Current_balance": "1234"
+        },
+        {
+            "Id": 3,
+            "Date": "1-10-2020",
+            "Name": "Ahmad zaid",
+            "Phone_number": "0587",
+            "Total_reward": "1000",
+            "Total_redeem": "2000",
+            "Current_balance": "1234"
+        }
+    ]
+}
